@@ -1,10 +1,11 @@
 <div align="center" >
   <img height="128" src="https://cdn.jsdelivr.net/gh/BuDingOwO/BuDingOwO@master/Picture/Overview-IMG.gif" alt="">
 </div>
-<h3 align="center" >一只毛毛柔软的小福腻在线求摸摸~</h3>
+<h3 align="center">Nonetbot-GoodMorning</h3>
+<h4 align="center">自动问好</h4>
 <div align="center" >
-  <a href="https://raw.githubusercontent.com/BuDingOwO/GoodMorning/master/LICENSE"></a>&emsp;
-    <img src="https://img.shields.io/github/license/BuDingOwO/GoodMorning" alt="license">&emsp;
+  <a href="https://raw.githubusercontent.com/BuDingOwO/Nonebot-Plugin-GoodMorning/master/LICENSE"></a>&emsp;
+    <img src="https://img.shields.io/github/license/BuDingOwO/Nonebot-Plugin-GoodMorning" alt="license">&emsp;
   <a href="https://www.forcecat.cn/"><img src="https://img.shields.io/badge/Official-官网-blue" alt=""></a>&emsp;
   <a href="https://twitter.com/BuDingOwO/"><img src="https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-blue" alt=""></a>&emsp;
   <a href="https://space.bilibili.com/526154182"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4" alt=""></a>&emsp;
@@ -17,10 +18,11 @@
 ### GoodMorning
 
 自动问好(比较废柴，智障xwx)
+较为完整的一版本的本地备份被我弄丢惹，呜呜呜
 
 ### Install
 
 ```dos
-git 
+git https://github.com/BuDingOwO/Nonebot-Plugin-GoodMorning.git
 ```
 
