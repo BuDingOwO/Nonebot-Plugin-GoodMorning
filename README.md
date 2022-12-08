@@ -18,11 +18,11 @@
 ### GoodMorning
 
 自动问好(比较废柴，智障xwx)
-较为完整的一版本的本地备份被我弄丢惹，呜呜呜
+**由于@BuDingOwO 太废物了，所以没上传PyPi QwQ**
 
 ### Install
 
 ```dos
-git https://github.com/BuDingOwO/Nonebot-Plugin-GoodMorning.git
+git clone https://github.com/BuDingOwO/Nonebot-Plugin-GoodMorning.git
 ```
 
